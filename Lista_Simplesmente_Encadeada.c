@@ -226,12 +226,12 @@ void menu() {
 
     do {
         printf("\n0 - Sair do programa\n");
-        printf("1 - Inserir elemento de forma ordenada\n");
-        printf("2 - Alterar Elemento\n");
-        printf("3 - Excluir Elemento\n");
-        printf("4 - Localizar Elemento\n");
-        printf("5 - Exibir Todos Elementos\n");
-        printf("6 - Exibir quantidade de elementos da lista\n");
+        printf("1 - Desejo inserir um elemento de forma ordenada\n");
+        printf("2 - Desejo alterar um elemento\n");
+        printf("3 - Desejo excluir um elemento\n");
+        printf("4 - Desejo localizar um elemento\n");
+        printf("5 - Desejo exibir todos os elementos\n");
+        printf("6 - Desejo exibir a quantidade de elementos da lista\n");
         printf("Informe uma opção: ");
         scanf("%d", &resposta);
 
